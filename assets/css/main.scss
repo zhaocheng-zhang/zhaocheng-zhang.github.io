@@ -36,23 +36,19 @@ $on-laptop: 800px;
 
 
 // Custom styles for header alignment
-.header-container {
-  display: flex !important;
-  align-items: center !important;
-  justify-content: space-between !important;
+.wrapper {
+  display: flex; /* 使标题和导航栏在同一行 */
+  align-items: center; /* 垂直居中对齐 */
+  justify-content: space-between; /* 两端对齐，标题在左，导航栏在右 */
 }
 
 .site-title {
-  font-size: 3rem; /* 调整文本的字体大小 */
-}
-
-.site-nav {
-  display: flex;
-  align-items: center;
+  font-size: 1.5rem; /* 调整标题字体大小 */
+  margin-right: 20px; /* 标题与导航栏之间的间距 */
 }
 
 .menu {
-  display: flex;
+  display: flex; /* 确保导航链接水平排列 */
 }
 
 .page-link {

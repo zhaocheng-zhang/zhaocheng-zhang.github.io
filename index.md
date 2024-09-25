@@ -5,10 +5,21 @@ profile_picture:
   alt: website picture
 ---
 
-<p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+
+Hi! 
+
+I am a PhD candidate at Faculty of Economics, University of Cambridge, supervised by [Prof. Oliver Linton](https://www.econ.cam.ac.uk/people/faculty/obl20).
+
+My research interests include Applied Econometrics, Financial Econometrics, and Empirical Research in IO/OM/Finance. You can find my CV here.
+<!--
+[Curriculum Vitae](https://zhaocheng-zhang.github.io/files/cv_zhaocheng.pdf)
+-->
+
+<br />
+
+Faculty of Economics<br>
+Austin Robinson Building<br>
+Sidgwick Avenue<br>
+Cambridge, CB3 9DD<br>
+Email: [zz391@cam.ac.uk](mailto:zz391@cam.ac.uk)

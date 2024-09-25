@@ -21,15 +21,15 @@ footer:
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
+      value: zz391@cam.ac.uk
+    #- type: wechat
+    #  value: YourWeChatUsername
+    #  link: "#"
   follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
+    #- type: twitter
+    #  name: Twitter
+    #  link: http://twitter.com/YourTwitterUsername
+    #  username: "@YourTwitterUsername"
     - type: facebook
       name: Facebook
       link: http://facebook.com/YourFacebookUsername
@@ -39,12 +39,18 @@ footer:
     - type: github
       name: GitHub
       link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+    #- type: dribbble
+    #  name: Dribbble
+    #  link: https://dribbble.com/YourDribbbleUsername
+    #- type: rss
+    #  name: RSS
+    #  link: /feed.xml
+    - type: googlescholar
+      name: googlescholar
+      link: https://scholar.google.com/
+    - type: orcid
+      name: orcid
+      link: http://orcid.org/0000-0001-8803-021X
 
 # Build settings
 markdown: kramdown

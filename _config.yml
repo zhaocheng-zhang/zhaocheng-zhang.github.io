@@ -45,7 +45,7 @@ footer:
     #- type: rss
     #  name: RSS
     #  link: /feed.xml
-    - type: googlescholar
+    - type: scholar
       name: Scholar
       link: https://scholar.google.com/citations?user=5U-TxWgAAAAJ&hl=en
     - type: orcid

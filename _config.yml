@@ -22,6 +22,9 @@ footer:
     - type: email
       name: Email
       value: zz391@cam.ac.uk
+    - type: facebook
+      name: Facebook
+      link: http://facebook.com/profile.php?id=100004522427762
     #- type: wechat
     #  value: YourWeChatUsername
     #  link: "#"
@@ -30,15 +33,12 @@ footer:
     #  name: Twitter
     #  link: http://twitter.com/YourTwitterUsername
     #  username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
     - type: linkedin
       name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/zhaocheng-jerry-zhang-51192ab5
     - type: github
       name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: http://github.com/zhaocheng-zhang
     #- type: dribbble
     #  name: Dribbble
     #  link: https://dribbble.com/YourDribbbleUsername
@@ -46,11 +46,14 @@ footer:
     #  name: RSS
     #  link: /feed.xml
     - type: googlescholar
-      name: googlescholar
-      link: https://scholar.google.com/
+      name: Google Scholar
+      link: https://scholar.google.com/citations?user=5U-TxWgAAAAJ&hl=en
     - type: orcid
-      name: orcid
+      name: ORCID
       link: http://orcid.org/0000-0001-8803-021X
+    - type: researchgate
+      name: ResearchGate
+      link: https://www.researchgate.net/profile/Zhaocheng-Zhang-4
 
 # Build settings
 markdown: kramdown

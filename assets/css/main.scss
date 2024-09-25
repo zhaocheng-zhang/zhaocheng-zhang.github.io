@@ -33,24 +33,3 @@ $on-laptop: 800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "404";
-
-
-// Custom styles for header alignment
-.wrapper {
-  display: flex; /* 使标题和导航栏在同一行 */
-  align-items: center; /* 垂直居中对齐 */
-  justify-content: space-between; /* 两端对齐，标题在左，导航栏在右 */
-}
-
-.site-title {
-  font-size: 1.5rem; /* 调整标题字体大小 */
-  margin-right: 20px; /* 标题与导航栏之间的间距 */
-}
-
-.menu {
-  display: flex; /* 确保导航链接水平排列 */
-}
-
-.page-link {
-  margin-left: 20px; /* 导航链接之间的间距 */
-}

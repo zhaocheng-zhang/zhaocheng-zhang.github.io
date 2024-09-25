@@ -5,7 +5,9 @@
       <img src="{{ "/assets/img/title.png" | absolute_url }}" alt="{{ site.title }}" />
     </a>
     -->
-    <span>Zhaocheng ZHANG</span>
+    <a class="site-title" href="{{ "" | prepend: site.baseurl | prepend: site.url }}/">
+      {{ site.title }}
+    </a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon"></a>

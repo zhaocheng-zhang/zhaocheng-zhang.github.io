@@ -12,12 +12,12 @@ google_analytics: "UA-121636368-3"
 header:
   pages:
     - name: Home
-      slug: index.md
+      slug: /
     - name: Work
     - name: Blog
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - type: email
       name: Email

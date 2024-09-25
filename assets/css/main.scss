@@ -37,9 +37,9 @@ $on-laptop: 800px;
 
 // Custom styles for header alignment
 .header-container {
-  display: flex;
-  align-items: center; /* 垂直居中对齐 */
-  justify-content: space-between; /* 在两端对齐文本和导航栏 */
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
 }
 
 .site-title {

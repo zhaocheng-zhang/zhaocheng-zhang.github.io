@@ -11,10 +11,9 @@ Hi!
 
 I am a PhD candidate at Faculty of Economics, University of Cambridge, supervised by [Prof. Oliver Linton](https://www.econ.cam.ac.uk/people/faculty/obl20).
 
-My research interests include Applied Econometrics, Financial Econometrics, and Empirical Research in IO/OM/Finance. You can find my CV here.
-<!--
-[Curriculum Vitae](https://zhaocheng-zhang.github.io/files/cv_zhaocheng.pdf)
--->
+My research interests include Applied Econometrics, Financial Econometrics, and Empirical Research in IO/OM/Finance. 
+
+You can find my CV [here](https://zhaocheng-zhang.github.io/assets/files/cv.pdf).
 
 <br />
 

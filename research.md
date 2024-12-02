@@ -13,7 +13,7 @@ slug: /research
 ## Working Papers
 
 * [Impact of Primary Care Market Mergers on Quality: Evidence from the English NHS](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4918321) (with Blair Lyu)
-* Tensor Factor Analysis of Global Supply Chains
+* Tensor Factor Analysis of Global Supply Chains (with Weichen Wang and Jing Wu)
 
 
 ## Work in Progress

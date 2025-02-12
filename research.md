@@ -7,7 +7,7 @@ slug: /research
 ## Publications
 
 * [Credit Rating Prediction Through Supply Chains: A Machine Learning Approach](https://doi.org/10.1111/poms.13634) (with Jing Wu and Sean X. Zhou)\
-   ***Production and Operations Management***, Vol. 31, No. 4, April 2022, pp. 1613–1629, media at [POMS](https://youtu.be/ybiD_tnwa2g) and [CUHK](https://cbk.bschool.cuhk.edu.hk/supply-chain-health-a-new-way-to-predict-credit-ratings/).
+   ***Production and Operations Management***, Vol. 31, No. 4, April 2022, pp. 1613–1629. <!--Media at [POMS](https://youtu.be/ybiD_tnwa2g) and [CUHK](https://cbk.bschool.cuhk.edu.hk/supply-chain-health-a-new-way-to-predict-credit-ratings/);--> [Code](https://github.com/zhaocheng-zhang/CreditRatingSC).
 
 
 ## Working Papers

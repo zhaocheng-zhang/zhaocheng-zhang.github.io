@@ -21,7 +21,7 @@ slug: /research
 
 * Tensor Factor Models and Stock Characteristics (with Martin Lettau)
 * Detection of Weak Granulars in Large Panels (with Yinfeng Zeng)
-* Determining the Number of Factors in Large Dimensional Latent Factor Model with Missing Observations
+* Estimating the Number of Factors with Missing Observations (with Weiguang Liu)
 
 
 <br />

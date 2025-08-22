@@ -7,11 +7,11 @@ profile_picture:
 
 
 
-Hi! 
+Welcome to my page! 
 
 I am a PhD candidate at Faculty of Economics, University of Cambridge, supervised by [Prof. Oliver Linton](https://www.econ.cam.ac.uk/people/faculty/obl20).
 
-My main research fields are Applied Econometrics and Financial Econometrics. I am also interested in Empirical Industrial Organization and Big Data Analytics in Finance. 
+My primary research fields include Applied Econometrics and Financial Econometrics. I am also interested in Empirical Industrial Organization and Big Data Analytics in Finance. 
 
 You can find my CV [here](https://zhaocheng-zhang.github.io/assets/files/cv.pdf).
 

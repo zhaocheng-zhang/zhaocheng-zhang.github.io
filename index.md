@@ -15,7 +15,7 @@ My research primarily focuses on Applied Econometrics and Financial Econometrics
 
 You can find my CV [here](https://zhaocheng-zhang.github.io/assets/files/cv_zhaocheng.pdf).
 
-I will be on the 2025-26 job market. 
+I am on the 2025-26 job market. 
 
 <br />
 

@@ -46,8 +46,7 @@ slug: /research
     <details>
     <summary>Abstract</summary>
     <p>
-    This paper investigates the underlying latent lower-dimensional structure of the dynamic supply chain network by using variants of the recently
-developed matrix-valued and tensor-valued factor models. The latent networks and their connection to the surface networks provide a clear view of the evolution of supply chains over the past two decades. The resulting lower dimensional representation of the dynamic network can be used for second-step analyses such as predictions of the matrix-valued supply chain network time series.
+    This paper examines the impact of horizontal mergers on the value of merging firms’ suppliers and customers using newly constructed supply chain data. I analyze both general and horizontal mergers and test for cumulative abnormal returns to related firms. The findings show that horizontal mergers lead to significant negative announcement returns for both suppliers and customers of the merging firms. I show empirical evidence that this adverse effect is likely driven by increased industry concentration following the merger. 
     </p>
     </details>
 

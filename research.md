@@ -13,6 +13,7 @@ slug: /research
 
 
 ### Working Papers
+*(Updated drafts and additional materials are available upon request)*
 
 * **Tensor Factor Analysis of Global Supply Chains** [link](https://www.dropbox.com/scl/fi/mtsy5vs4e6am4j8qubqwa/Tensor_Factor_zhaocheng.pdf?rlkey=zzrnq58mi1a7f5i3s8n96caqk&st=67lpmtn3&dl=0) <!--(with Weichen Wang and Jing Wu)-->
     <details>

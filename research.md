@@ -4,7 +4,7 @@ title: Research
 slug: /research
 ---
 
-## Publications
+### Publications
 
 * **Credit Rating Prediction Through Supply Chains: A Machine Learning Approach** (with [Jing Wu](https://www.bschool.cuhk.edu.hk/staff/wu-jing/) and [Sean X. Zhou](https://www.bschool.cuhk.edu.hk/staff/zhou-sean-xiang/)) [link](https://doi.org/10.1111/poms.13634)\
    *Production and Operations Management*, Vol. 31, No. 4, April 2022, pp. 1613–1629. <!--Media at [POMS](https://youtu.be/ybiD_tnwa2g) and [CUHK](https://cbk.bschool.cuhk.edu.hk/supply-chain-health-a-new-way-to-predict-credit-ratings/); [Code](https://github.com/zhaocheng-zhang/CreditRatingSC).-->
@@ -12,7 +12,7 @@ slug: /research
    *Journal of Health Economics*, Forthcoming.
 
 
-## Working Papers
+### Working Papers
 
 * **Tensor Factor Analysis of Global Supply Chains** [link](https://www.dropbox.com/scl/fi/mtsy5vs4e6am4j8qubqwa/Tensor_Factor_zhaocheng.pdf?rlkey=zzrnq58mi1a7f5i3s8n96caqk&st=67lpmtn3&dl=0) <!--(with Weichen Wang and Jing Wu)-->
     <details>
@@ -51,7 +51,7 @@ slug: /research
     </details>
 
 
-## Work in Progress
+### Selected Work in Progress
 
 * Non-negative Tensor Factor Models
 * Tensor Factor Analysis of U.S. County-County Commuting Flows (with [River Chen](https://www.econ.cam.ac.uk/people/academic/yujiang-river-chen))

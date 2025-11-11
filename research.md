@@ -21,7 +21,7 @@ slug: /research
     This paper develops and estimates a semi-parametric tensor factor model for high-dimensional data where latent factor loadings are flexible, non-parametric functions of time-varying covariates. We introduce this framework to analyze a pressing economic problem: the identification of systematic risks in global supply chains. Applying the model to a five-dimensional country-industry level dataset (2000-2014), the empirical analysis reveals that a small number of latent factors—interpreted as major trade hubs like China and the U.S.—explain the vast majority of the network's variation. The results demonstrate that exposures to these systematic risk factors are strongly driven by observable economic characteristics such as economic size and productive capability. This research provides both a novel econometric tool for dynamic, multi-dimensional data and new insights into the evolving structure of the global economy.
     </p>
     </details>
-* Tensor Factor Models, Missing Financial Data, and Stock Returns [link](https://www.dropbox.com/scl/fi/9e25f7iw8dh5w41nlway8/TFM_stock_zhaocheng.pdf?rlkey=5beav3cgaysqcegnns774hpb1&st=mso72apy&dl=0) (with [Martin Lettau](https://haas.berkeley.edu/faculty/lettau-martin/))
+* Tensor Factor Models, Missing Financial Data, and Stock Returns (with [Martin Lettau](https://haas.berkeley.edu/faculty/lettau-martin/)) [link](https://www.dropbox.com/scl/fi/9e25f7iw8dh5w41nlway8/TFM_stock_zhaocheng.pdf?rlkey=5beav3cgaysqcegnns774hpb1&st=mso72apy&dl=0)
     <details>
     <summary>Abstract</summary>
     <p>

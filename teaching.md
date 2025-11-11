@@ -4,7 +4,7 @@ title: Teaching
 slug: /teaching
 ---
 
-## University of Cambridge
+### Teaching Assistant, University of Cambridge
 
 * **R301a Advanced Econometrics II: Time Series**  
   &emsp; 2021/22 Optional course for PhD and MPhil programmes

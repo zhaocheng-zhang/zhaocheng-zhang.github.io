@@ -9,7 +9,7 @@ slug: /research
 * **Credit Rating Prediction Through Supply Chains: A Machine Learning Approach** (with [Jing Wu](https://www.bschool.cuhk.edu.hk/staff/wu-jing/) and [Sean X. Zhou](https://www.bschool.cuhk.edu.hk/staff/zhou-sean-xiang/)) [link](https://doi.org/10.1111/poms.13634)\
    *Production and Operations Management*, Vol. 31, No. 4, April 2022, pp. 1613–1629. <!--Media at [POMS](https://youtu.be/ybiD_tnwa2g) and [CUHK](https://cbk.bschool.cuhk.edu.hk/supply-chain-health-a-new-way-to-predict-credit-ratings/); [Code](https://github.com/zhaocheng-zhang/CreditRatingSC).-->
 * **Impact of Primary Care Market Mergers on Quality: Evidence from the English NHS** (with [Yuan Lyu](http://ae.ruc.edu.cn/szdw/qzjs/ayjspx/nyjjx/nyllyzcjys/ly/index.htm)) [link](https://doi.org/10.1016/j.jhealeco.2025.103050)\
-   *Journal of Health Economics*, Forthcoming.
+   *Journal of Health Economics*, Vol. 104, December 2025, 103050.
 
 
 ### Working Papers

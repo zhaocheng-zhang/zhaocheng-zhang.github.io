@@ -1,6 +1,5 @@
 ---
 layout: vita
-title: Vita
 slug: /vita
 ---
 

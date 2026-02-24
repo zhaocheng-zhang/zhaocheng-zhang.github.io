@@ -59,4 +59,3 @@ slug: /research
 * Tensor Factor Analysis of Institutional Stock Holdings
 
 <br />
-<br />

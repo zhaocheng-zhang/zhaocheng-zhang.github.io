@@ -15,7 +15,7 @@ My research primarily focuses on Applied Econometrics and Financial Econometrics
 
 <!-- You can find my CV [here](https://zhaocheng-zhang.github.io/assets/files/cv_zhaocheng.pdf). -->
 
-In autumn 2026, I will join the School of Management at Fudan University as an Assistant Professor in Applied Economics.
+In autumn 2026, I will join the School of Management at Fudan University as an Assistant Professor of Applied Economics.
 
 <br />
 

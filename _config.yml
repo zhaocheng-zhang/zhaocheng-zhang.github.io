@@ -23,6 +23,7 @@ footer:
     - type: email
       name: Email
       value: zz391@cam.ac.uk
+      cloak: false
     - type: facebook
       name: Facebook
       link: http://facebook.com/profile.php?id=100004522427762

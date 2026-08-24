@@ -9,20 +9,30 @@ profile_picture:
 
 Welcome to my page! 
 
-My name is Zhaocheng (Jerry) Zhang, 张兆成. I am a PhD candidate at Faculty of Economics, University of Cambridge, supervised by [Prof. Oliver Linton](https://www.econ.cam.ac.uk/people/faculty/obl20).
+My name is Zhaocheng (Jerry) Zhang, 张兆成. I am an Assistant Professor of Applied Economics at the School of Management, Fudan University.
+
+<!-- I am a PhD candidate at Faculty of Economics, University of Cambridge, supervised by [Prof. Oliver Linton](https://www.econ.cam.ac.uk/people/faculty/obl20). -->
 
 My research primarily focuses on Applied Econometrics and Financial Econometrics. I also have a strong interest in Empirical Industrial Organization and Big Data Analytics in Finance. My ongoing research involves developing and applying tensor factor models to address multi- and high-dimensional problems across various areas of economics and finance.
 
 <!-- You can find my CV [here](https://zhaocheng-zhang.github.io/assets/files/cv_zhaocheng.pdf). -->
 
-In autumn 2026, I will join the School of Management at Fudan University as an Assistant Professor of Applied Economics.
+<!-- In autumn 2026, I will join the School of Management at Fudan University as an Assistant Professor of Applied Economics.  -->
 
 <br />
 
+<!--
 Faculty of Economics<br>
 Austin Robinson Building<br>
 Sidgwick Avenue<br>
 Cambridge, CB3 9DD<br>
+Email: [zz391@cam.ac.uk](mailto:zz391@cam.ac.uk)
+-->
+
+Room 228, Siyuan Building<br>
+School of Management, Fudan University<br>
+670 Guoshun Road<br>
+Shanghai, China, 200433<br>
 Email: [zz391@cam.ac.uk](mailto:zz391@cam.ac.uk)
 
 <br />

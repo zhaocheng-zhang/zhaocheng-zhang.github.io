@@ -22,7 +22,7 @@ footer:
   contact:
     - type: email
       name: Email
-      value: zz391@cam.ac.uk
+      value: zczhang@fudan.edu.cn
       cloak: true
     - type: facebook
       name: Facebook

@@ -33,6 +33,6 @@ Room 228, Siyuan Building<br>
 School of Management, Fudan University<br>
 670 Guoshun Road<br>
 Shanghai, China, 200433<br>
-Email: [zz391@cam.ac.uk](mailto:zz391@cam.ac.uk)
+Email: [zczhang@fudan.edu.cn](mailto:zczhang@fudan.edu.cn)
 
 <br />

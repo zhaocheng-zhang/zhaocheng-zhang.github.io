@@ -33,6 +33,7 @@ Room 228, Siyuan Building<br>
 School of Management, Fudan University<br>
 670 Guoshun Road<br>
 Shanghai, China, 200433<br>
-Email: [zczhang@fudan.edu.cn](mailto:zczhang@fudan.edu.cn)
+Email: [zczhang@fudan.edu.cn](mailto:zczhang@fudan.edu.cn)<br>
+Tel: +86 (21) 2501 1070
 
 <br />

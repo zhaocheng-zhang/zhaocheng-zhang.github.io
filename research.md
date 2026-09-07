@@ -15,7 +15,7 @@ slug: /research
 ### Working Papers
 *(Updated drafts and additional materials are available upon request)*
 
-* **Tensor Factor Analysis of Global Supply Chains** 
+* **Identifying Systematic Risk Factors in Global Supply Chain Network: A Tensor Factor Analysis** (with [Weichen Wang](https://www.hkubs.hku.hk/people/weichen-wang/) and [Jing Wu](https://www.bschool.cuhk.edu.hk/staff/wu-jing/))
     {% comment %}
     <details>
     <summary>Abstract</summary>

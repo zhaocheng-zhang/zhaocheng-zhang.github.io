@@ -6,7 +6,7 @@ slug: /teaching
 
 ### School of Management, Fudan University
 
-* **Macroeconomics** (PhD)
+* **Macroeconomics** (Graduate)
 
 ### Faculty of Economics, University of Cambridge (TA)
 

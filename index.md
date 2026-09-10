@@ -9,7 +9,7 @@ profile_picture:
 
 Welcome to my page! 
 
-My name is Zhaocheng (Jerry) Zhang, 张兆成. I am an Assistant Professor of Applied Economics at the School of Management, Fudan University.
+My name is Zhaocheng (Jerry) Zhang, 张兆成. I am an Assistant Professor of Applied Economics at the School of Management, Fudan University. I obtained my PhD from the University of Cambridge, supervised by [Prof. Oliver Linton](https://www.econ.cam.ac.uk/people/faculty/obl20).
 
 <!-- I am a PhD candidate at Faculty of Economics, University of Cambridge, supervised by [Prof. Oliver Linton](https://www.econ.cam.ac.uk/people/faculty/obl20). -->
 

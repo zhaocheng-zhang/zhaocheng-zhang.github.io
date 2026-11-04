@@ -42,7 +42,7 @@ slug: /research
     </p>
     </details>
     {% endcomment %}
-* **Detection of Weak Granulars in Large Panels** (with [Yinfeng Zeng](https://www.econ.cam.ac.uk/people/postgraduates/yinfeng-zeng))
+* **Which Units Act as Factors? Testing Pervasive Units in Large Panels** (with [Yinfeng Zeng](https://www.econ.cam.ac.uk/people/postgraduates/yinfeng-zeng))
     {% comment %}
     <details>
     <summary>Abstract</summary>
